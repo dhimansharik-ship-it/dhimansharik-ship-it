@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sharik!
+# 👋 Hi, I'm Sharik Dhiman!
 
 ### 💻 Computer Science Student | Developer | Creative Mind ✨
 
@@ -51,9 +51,6 @@
 ### 🌱 LeafLogic
 Smart Plant Watering System designed to automate plant care using sensors and IoT.
 
-### 🩸 Rakt Setu
-A platform concept designed to connect blood donors with people in need.
-
 ### 🌐 Personal Portfolio
 A personal website to showcase my skills, projects, and creative work.
 
@@ -75,20 +72,6 @@ When I'm not coding, I enjoy **video editing, design, music, fashion, nature, an
 ---
 
 <div align="center">
-
-## 🌐 Connect With Me
-
-<a href="in/sharik-dhiman">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="sharik.sh._">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="dhimansharik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
 
 ### ✨ Thanks for visiting my profile!
 
